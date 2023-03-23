@@ -96,7 +96,7 @@
 >Метод charCodeAt() возвращает юникод символа по указанному индексу в строке:
 
 >Метод возвращает код UTF-16 (целое число от 0 до 65535).
->1[](https://github.com/Manuchehr-1998/Metod-String-Number/raw/master/img/charCodeAtt_5.png)
+>![](https://github.com/Manuchehr-1998/Metod-String-Number/raw/master/img/charCodeAtt_5.png)
 
 #### JavaScript String split() Разделение строки JavaScript()
 
